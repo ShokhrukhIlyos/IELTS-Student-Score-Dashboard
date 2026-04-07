@@ -286,7 +286,7 @@ filtered_wide = (
 # =========================================================
 # HEADER
 # =========================================================
-st.title("📊 IELTS Student Score Dashboard")
+st.title("📊 IELTS Student Score Dashboard 2026")
 st.caption("Static dashboard built directly from the table image data")
 
 
